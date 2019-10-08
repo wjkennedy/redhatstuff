@@ -1,6 +1,6 @@
 # Red Hat Stuff
 
-This is a sample of scripts developed over the last several years used in the deployment, management and support of Red Hat Linux systems.
+This is a sample of **ANCIENT** scripts used in the deployment, management and support of Red Hat Linux systems.
 
 - Linux_QA_v1.0.sh
 
